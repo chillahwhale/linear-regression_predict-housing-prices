@@ -1,5 +1,5 @@
-# Project 2 Summary:
-**DSI-US-11 Project 2 Regression Challenge:**  *Predict the price of homes at sale for the Ames Iowa Housing dataset*
+# Ames Housing Prices Summary:
+*Predict the price of homes at sale for the Ames Iowa Housing dataset*
 
 # Contents:
 - [Problem Statement](#Problem-Statement)
