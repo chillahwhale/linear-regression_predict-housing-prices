@@ -1,5 +1,5 @@
 # Ames Housing Prices Summary:
-*Predict the price of homes at sale for the Ames Iowa Housing dataset*
+*Predict the price of homes at sale for the Ames Iowa Housing dataset. Based on [House Prices: Advanced Regression Techniques Kaggle Competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)*
 
 # Contents:
 - [Problem Statement](#Problem-Statement)
